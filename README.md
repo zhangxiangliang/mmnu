@@ -4,4 +4,4 @@
 ![PC端](./images/pc.png)
 
 ## 手机端
-![手机端](./images/mobile.png)
+<img src="./images/mobile.png" width="50%">

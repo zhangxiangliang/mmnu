@@ -1,0 +1,12 @@
+{
+  "name": "mnnu",
+  "version": "1.0.0",
+  "description": "minnan normal university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "browser-sync start --server --no-notify --files='./*.html, ./css/*.css, ./js/*.js'"
+  },
+  "author": "lionis",
+  "license": "ISC"
+}
